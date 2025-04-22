@@ -12,7 +12,7 @@ Ce projet a pour but de démontrer l’utilisation de techniques simples de trai
 
 ## 📷 Démo
 
-![yellowTrack demo](frame 2025-04-22 16-19-14.mp4) 
+![yellowTrack demo](frame 2025-04-22 16-19-14.mp4) <!-- Si tu as une démo vidéo ou gif, ajoute-la ici -->
 
 ---
 
@@ -21,7 +21,7 @@ Ce projet a pour but de démontrer l’utilisation de techniques simples de trai
 - Python 3.12.6
 - [OpenCV](https://opencv.org/)
 - NumPy
--PIL
+- PIL
 
 ---
 
